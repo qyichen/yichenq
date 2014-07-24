@@ -1,0 +1,1 @@
+该git库存放学习cocos2d-x、opengl、directx、unity等一些知识的代码，该git库将于github中的远程库同步上传。
